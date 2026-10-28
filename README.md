@@ -1,5 +1,7 @@
 <h1 align="center">Eddie Lima</h1>
 
+## Sobre mim
+
 <p align="center">
   Estudante de Ciência da Computação com atuação prática em suporte N1/N2, monitoramento de EDR/SIEM,
   resposta a incidentes, rotinas de backup e administração de VPS Linux.<br>
@@ -7,7 +9,7 @@
   Foco na especialização em cibersegurança defensiva, com conhecimentos de Red e Blue Team.
 </p>
 
-## Sobre mim
+---
 
 -  **Estudando:** Web App Pentesting, n8n, Bash.
 -  **Diferencial:** Atender usuários me ensinou como os sistemas são realmente usados, e o estudo de Red Team me mostra como eles são atacados. Juntar as duas visões me permite defender de forma mais objetiva e realista.
