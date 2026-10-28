@@ -53,6 +53,7 @@
 ## Estatísticas do GitHub
 
 <table align="center"> <tr> <td align="center"> <img alt="Estatísticas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eddie-lima&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eddie-lima&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eddie-lima&theme=github_dark" /> </td> </tr> </table> <p align="center"> <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eddie-lima&theme=github_dark" /> </p>
+
 ---
 
 ## Contatos
