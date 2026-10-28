@@ -17,7 +17,7 @@
 
 ## Habilidades e Ferramentas
 <h3 align="center">Linguagens</h3>
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,js,php,c&theme=dark" alt="Python, Bash, JavaScript, PHP, C" /></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,js,php,c,java&theme=dark" alt="Python, Bash, JavaScript, PHP, C, Java" /></p>
 
 <h3 align="center">Front-end</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML5, CSS3" /> </p>
