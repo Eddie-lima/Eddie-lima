@@ -59,7 +59,7 @@
 ## Contatos
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN/">
+  <a href="https://www.linkedin.com/in/edmauro-lima">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:seuemail@gmail.com">
