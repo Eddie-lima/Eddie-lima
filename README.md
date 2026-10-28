@@ -26,16 +26,17 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=flask,django,postgres,mysql,sqlite&theme=dark" alt="Flask, Django, PostgreSQL, MySQL, SQLite" /> </p>
 
 <h3 align="center">Ferramentas &amp; Deploy</h3>
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Git, Docker, Vercel" /> </p>
-
-<h3 align="center">Cibersegurança &amp; Infraestrutura</h3>
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,gcp&theme=dark" alt="Linux, Google Cloud" /> </p>
-<!--Faltam alguns ícones no skillicons.dev: Wazuh, Microsoft 365, Render, cPanel, Hostinger. -->
-<p align="center"> <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Git, Docker, Vercel" /> 
+<p align="center"> 
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
 <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" /> </p>
+
+<h3 align="center">Cibersegurança &amp; Infraestrutura</h3>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,gcp&theme=dark" alt="Linux, Google Cloud" /> </p>
+<!--Faltam alguns ícones no skillicons.dev: Wazuh, Microsoft 365 -->
+<p align="center"> <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
 
 ---
 
