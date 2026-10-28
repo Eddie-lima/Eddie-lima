@@ -43,8 +43,8 @@
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| 🛡️ **Laboratório Wazuh** | Ambiente controlado para analisar os alertas gerados quando um atacante executa scans na rede | Wazuh, Linux, Docker, Nmap, Wireshark | 🚧 Em andamento |
-| 💼 **JobHunt** | Aplicação para organizar e acompanhar candidaturas a vagas | N8N, NocoDB, PostgreSQL, Docker Compose | 🚧 Em finalização |
+| **Laboratório Wazuh** | Ambiente controlado para analisar os alertas gerados quando um atacante executa scans na rede | Wazuh, Linux, Docker, Nmap, Wireshark | Em andamento (Coleta de logs) |
+| **JobHunt** | Aplicação para organizar e acompanhar candidaturas a vagas | N8N, NocoDB, PostgreSQL, Docker Compose | Em finalização |
 <!-- Trocar nome pelo link quando finalizar: [**JobHunt**](https://github.com/Eddie-lima/jobhunt) -->
 
 ---
