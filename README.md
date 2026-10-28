@@ -7,10 +7,6 @@
   Foco na especialização em cibersegurança defensiva, com conhecimentos de Red e Blue Team.
 </p>
 
-<p align="center">
-  Em busca de oportunidades em <b>Desenvolvimento de Software</b>, <b>Analista SOC</b>, <b>Blue Team</b>
-</p>
-
 ## Sobre mim
 
 -  **Estudando:** Full Stack Python + Django, arquitetura de APIs RESTful.
