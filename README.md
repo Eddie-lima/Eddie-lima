@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Em busca de oportunidades em <b>Desenvolvimento de Software</b>, <b>Analista SOC</b>
+  Em busca de oportunidades em <b>Desenvolvimento de Software</b>, <b>Analista SOC</b>, <b>Blue Team</b>
 </p>
 
 ## Sobre mim
