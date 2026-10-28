@@ -38,7 +38,7 @@
 <h3 align="center">Back-end &amp; Bancos de Dados</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/pypi/frameworkversions/django/:packageName" alt="Django">
+  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
@@ -69,7 +69,7 @@
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
 | 🛡️ **Laboratório Wazuh** | Ambiente controlado para analisar os alertas gerados quando um atacante executa scans na rede | Wazuh, Linux, Docker, Nmap, Wireshark | 🚧 Em andamento |
-| 💼 **JobHunt** | Aplicação para organizar e acompanhar candidaturas a vagas | _(preencher)_ | 🚧 Em finalização |
+| 💼 **JobHunt** | Aplicação para organizar e acompanhar candidaturas a vagas | N8N, NocoDB, PostgreSQL, Docker Compose | 🚧 Em finalização |
 <!-- Trocar nome pelo link quando finalizar: [**JobHunt**](https://github.com/Eddie-lima/jobhunt) -->
 
 ---
