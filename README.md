@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
--  **Estudando:** Web App Pentesting, N8N, Bash.
+-  **Estudando:** Web App Pentesting, n8n, Bash.
 -  **Diferencial:** Atender usuários me ensinou como os sistemas são realmente usados, e o estudo de Red Team me mostra como eles são atacados. Juntar as duas visões me permite defender de forma mais objetiva e realista.
 -  **Formação:** Ciência da Computação, conclusão prevista para agosto/2028
 
