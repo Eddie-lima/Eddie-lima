@@ -1,4 +1,4 @@
-<h1 align="center">Analista de Cibersegurança em formação | Analista de Redes</h1>
+<h1 align="center">Eddie Lima</h1>
 
 <p align="center">
   Estudante de Ciência da Computação com atuação prática em suporte N1/N2, monitoramento de EDR/SIEM,
@@ -20,47 +20,26 @@
 ---
 
 ## Habilidades e Ferramentas
-
 <h3 align="center">Linguagens</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,js,php,c&theme=dark" alt="Python, Bash, JavaScript, PHP, C" /></p>
 
 <h3 align="center">Front-end</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML5, CSS3" /> </p>
 
 <h3 align="center">Back-end &amp; Bancos de Dados</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=flask,django,postgres,mysql,sqlite&theme=dark" alt="Flask, Django, PostgreSQL, MySQL, SQLite" /> </p>
 
 <h3 align="center">Ferramentas &amp; Deploy</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/DOCKER_COMPOSE-1D63ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose">
-  <img src="https://img.shields.io/badge/CPANEL-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" alt="cPanel">
-  <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
-  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,docker,vercel&theme=dark" alt="Git, Docker, Vercel" /> </p>
 
 <h3 align="center">Cibersegurança &amp; Infraestrutura</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/WAZUH-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
-  <img src="https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/MICROSOFT_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft 365">
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,gcp&theme=dark" alt="Linux, Google Cloud" /> </p>
+<!--Faltam alguns ícones no skillicons.dev: Wazuh, Microsoft 365, Render, cPanel, Hostinger. -->
+<p align="center"> <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white" alt="cPanel" />
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" /> </p>
 
 ---
 
@@ -76,19 +55,7 @@
 
 ## Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/Eddie-lima">
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eddie-lima&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=pt-br" />
-  </a>
-  <a href="https://github.com/Eddie-lima">
-    <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-lima&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
-  </a>
-</p>
-
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Eddie-lima&theme=radical&hide_border=true&locale=pt_BR" />
-</p>
-
+<table align="center"> <tr> <td align="center"> <img alt="Estatísticas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eddie-lima&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por repositório" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eddie-lima&theme=github_dark" /> </td> <td align="center"> <img alt="Linguagens por commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eddie-lima&theme=github_dark" /> </td> </tr> </table> <p align="center"> <img alt="Resumo do perfil" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eddie-lima&theme=github_dark" /> </p>
 ---
 
 ## Contatos
